@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using SchoolRegister.Models;
+using Model;
+using SchoolRegister.ViewsModels.VM;
 
 namespace SchoolRegister.Controllers
 {
